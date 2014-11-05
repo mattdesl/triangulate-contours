@@ -1,0 +1,45 @@
+{
+  "name": "triangulate-contours",
+  "version": "1.0.0",
+  "description": "triangulates a series of 2D contours",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "tess2": "^1.0.0",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "triangulation",
+    "tris",
+    "tri",
+    "triangulate",
+    "triangulated",
+    "poly",
+    "polyline",
+    "mesh",
+    "polys",
+    "polygon",
+    "path",
+    "shape",
+    "2d"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/triangulate-contours.git"
+  },
+  "homepage": "https://github.com/mattdesl/triangulate-contours",
+  "bugs": {
+    "url": "https://github.com/mattdesl/triangulate-contours/issues"
+  }
+}
