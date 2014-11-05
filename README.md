@@ -30,7 +30,7 @@ console.log(results)
 
 Triangulates an array of polylines, each polyline representing a contour. The options will be pushed into `Tess2` constructor; but if no `vertexSize` is specified, it will be guessed based on the input array (i.e. 2-dimensional vs. 3-dimensional vectors).
 
-Returns a [simplicial complex](https://github.com/mikolalysenko/simplicial-complex), i.e. a simple object with `{ positions: [ [x,y], .. ], cells: [ [a,b,c], .. ] }.
+Returns a [simplicial complex](https://github.com/mikolalysenko/simplicial-complex), i.e. a simple object with `{ positions: [ [x,y], .. ], cells: [ [a,b,c], .. ] }`.
 
 ## License
 
