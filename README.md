@@ -39,6 +39,13 @@ Returns a [simplicial complex](https://github.com/mikolalysenko/simplicial-compl
 }
 ```
 
+## See Also
+
+For more robust triangulation than Tess2, see the following:
+
+- [triangulate-polyline](https://www.npmjs.com/package/triangulate-polyline)
+- [cdt2d](https://www.npmjs.com/package/cdt2d)
+
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/triangulate-contours/blob/master/LICENSE.md) for details.
