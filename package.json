@@ -1,6 +1,6 @@
 {
   "name": "triangulate-contours",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "triangulates a series of 2D contours",
   "main": "index.js",
   "license": "MIT",
